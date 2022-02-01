@@ -20,7 +20,7 @@ namespace WebApp3.Controllers
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Services()
         {
             ViewBag.Message = "Your contact page.";
 

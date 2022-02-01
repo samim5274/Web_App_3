@@ -28,6 +28,9 @@
     font-size: 50px;
     margin-bottom: 20px;
 }
-#testimonial .slick-prev::before, .slick-next::before{
+#testimonial .slick-prev::before{
     color: #000;
+}
+#testimonial .slick-next::before{
+    color: #000000;
 }
