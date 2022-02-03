@@ -180,9 +180,11 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Contact.css" />
     <Content Include="Content\About.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Contact.css" />
     <Content Include="Content\fontawesome.css" />
     <Content Include="Content\fontawesome.min.css" />
     <Content Include="Content\navbar-fixed.css" />
@@ -251,6 +253,7 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Services.cshtml" />
     <Content Include="Views\Home\Vlog.cshtml" />
+    <Content Include="Views\Home\Contact.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

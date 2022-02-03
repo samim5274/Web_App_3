@@ -22,17 +22,24 @@ namespace WebApp3.Controllers
 
         public ActionResult Services()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your Sevice page.";
 
             return View();
         }
 
         public ActionResult Vlog()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your Vlog page.";
 
             return View();
         }
 
+
+        public ActionResult Contact()
+        {
+            ViewBag.Message = "Your Contact page.";
+
+            return View();
+        }
     }
 }
