@@ -191,6 +191,7 @@
     <Content Include="Content\slick.css" />
     <Content Include="Content\style.css" />
     <Content Include="Content\uikit.min.css" />
+    <Content Include="Content\Vlog.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -249,6 +250,7 @@
     <None Include="Project_Readme.html" />
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Services.cshtml" />
+    <Content Include="Views\Home\Vlog.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

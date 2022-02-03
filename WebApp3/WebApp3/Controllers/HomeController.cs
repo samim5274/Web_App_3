@@ -27,5 +27,12 @@ namespace WebApp3.Controllers
             return View();
         }
 
+        public ActionResult Vlog()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
+
     }
 }
